@@ -17,3 +17,6 @@ print(Solution().isPalindrome(x))
 
 x = 10
 print(Solution().isPalindrome(x))
+
+x = 1001
+print(Solution().isPalindrome(x))
